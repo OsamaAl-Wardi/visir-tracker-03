@@ -1,6 +1,6 @@
 # Practical Assignment 3
 Please put your name (or names if you work in a group) here:  
-**Name**: .......
+**Name**: Osama Al-Wardi and Melvin Wolf
 ## Problem 3.1
 ### Ring Buffer (Points 30)
 1. Fork the current repository
